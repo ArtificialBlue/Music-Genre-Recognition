@@ -1,4 +1,4 @@
-# springIntensive
+# Music Genre Recognition Project
 
 Machine Learning Project: Live Identification of Music with 3 Musical Genres (Classical, Jazz, and Rock)
 
